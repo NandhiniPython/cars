@@ -15,4 +15,4 @@ Annotations are made manually.
 
 `cars_labels.jpg` describes the class distribution of annotated features.
 
-![labels](https://github.com/rajkumargalaxy/cars/cars_labels.jpg/)
+![labels](https://raw.githubusercontent.com/rajkumargalaxy/cars/main/cars_labels.jpg/)
