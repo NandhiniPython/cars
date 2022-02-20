@@ -169,7 +169,7 @@ file_name,wheels_visible,human_visible
 168.jpg,not visible,visible
 169.jpg,visible,visible
 170.jpg,not visible,visible
-171.jpg,not visible,visible
+171.jpg,not visible,not visible
 172.jpg,not visible,visible
 173.jpg,not visible,visible
 174.jpg,not visible,visible
@@ -179,3 +179,13 @@ file_name,wheels_visible,human_visible
 178.jpg,not visible,visible
 179.jpg,not visible,visible
 180.jpg,not visible,visible
+181.jpg,visible,visible
+182.jpg,not visible,visible
+183.jpg,not visible,visible
+184.jpg,not visible,visible
+185.jpg,not visible,visible
+186.jpg,not visible,visible
+187.jpg,not visible,visible
+188.jpg,not visible,visible
+189.jpg,not visible,visible
+190.jpg,not visible,visible
